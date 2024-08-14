@@ -5,17 +5,6 @@ app = Flask(__name__)
 
 data_content = {"key_1": "value_1", "key_2": "value_2"}
 
-json_object = {
-    "a1": {
-        "b1": {
-            "c1": {
-                "d1": {}
-            },
-            "c2": [1, 2, 5]
-        }
-    }
-}
-
 
 @app.route("/")
 def index():
