@@ -141,8 +141,6 @@ To install the dependencies, run:
 pip install Flask
 ```
 
-Note: Ensure that `validate_json.py` is available in the same directory or properly installed in your environment.
-
 ## Customization
 
 - Modify the `data_content` dictionary to suit your data management needs.
