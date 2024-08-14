@@ -133,7 +133,7 @@ The server will start on `http://0.0.0.0:5000/` and can be accessed via a web br
 ## Dependencies
 
 - **Flask**: A lightweight WSGI web application framework for Python.
-- **validate_json**: A custom module to validate the structure of JSON objects (make sure to implement or include this module).
+- **validate_json**: A custom module to validate the structure of JSON objects.
 
 To install the dependencies, run:
 
