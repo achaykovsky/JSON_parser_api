@@ -146,7 +146,3 @@ pip install Flask
 - Modify the `data_content` dictionary to suit your data management needs.
 - Customize the JSON validation logic in `validate_json` to meet specific requirements.
 - Extend the error handling to cover additional cases as needed.
-
-## License
-
-This project is open-source and available under the MIT License.
