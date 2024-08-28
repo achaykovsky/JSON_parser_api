@@ -140,9 +140,3 @@ To install the dependencies, run:
 ```bash
 pip install Flask
 ```
-
-## Customization
-
-- Modify the `data_content` dictionary to suit your data management needs.
-- Customize the JSON validation logic in `validate_json` to meet specific requirements.
-- Extend the error handling to cover additional cases as needed.
